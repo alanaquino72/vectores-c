@@ -1,6 +1,7 @@
 # Vectores en C
 
 Este repositorio contiene una colección de ejercicios prácticos sobre manipulación y análisis de vectores en lenguaje C. Cada programa está diseñado para fortalecer habilidades de programación estructurada y comprensión de algoritmos sobre arreglos.
+
 ---
 
 ## Contenido de los ejercicios
@@ -17,7 +18,8 @@ Este repositorio contiene una colección de ejercicios prácticos sobre manipula
 10. **Fusión de vectores ordenados:** Combina dos vectores ordenados en uno solo.  
 11. **Frecuencia de elementos:** Muestra cuántas veces aparece cada valor.  
 12. **Subsecuencia creciente:** Encuentra la subsecuencia creciente más larga.
-13. ---
+
+---
 
 ## Compilación y ejecución
 
@@ -33,11 +35,13 @@ Por ejemplo:
    gcc ej01_leer_mostrar_vector.c -o ej01
    ./ej01
    ```
+
 ---
 
 ## Autor
 
 **Alan Aquino**, estudiante de Ingeniería en Informática.
+
 ---
 
 ## Licencia
